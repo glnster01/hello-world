@@ -1,3 +1,3 @@
 # hello-world
 Test repository
-just messing around fir the first time.
+just messing around for the second time.
